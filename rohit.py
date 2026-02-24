@@ -500,7 +500,7 @@ def search_db():
 # ==========================================
 async def login_system():
     print("\n=========================================")
-    print("   🛡️ OSINT SYSTEM INITIALIZATION 🛡️   ")
+    print("   🛡️ ULTIMATE MODDERZ SYSTEM INITIALIZATION 🛡️   ")
     print("=========================================\n")
     
     client = TelegramClient(SESSION_NAME, API_ID, API_HASH)
@@ -536,7 +536,7 @@ if __name__ == '__main__':
     print("\n" + "="*50)
     print("🚀 SERVER IS RUNNING PERFECTLY!")
     print("👉 OPEN YOUR CHROME/BROWSER AND TYPE THIS LINK:")
-    print("🌐 http://127.0.0.1:5000")
+    print("🌐 http://127.0.0.1:8094")
     print("="*50 + "\n")
     
     # Start web server automatically
